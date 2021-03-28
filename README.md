@@ -17,6 +17,9 @@ My most worked on personal project to date is [MCRoyale](https://twitter.com/MCR
 Other Personal Projects:
  - I am currently not working on any personal projects at the moment.
 
+
+Free Time Snippets:
+ - [Here](https://github.com/MrcsM/Code-Snippets) is my repo for random little code snippets, feel free to check it out!
 #
 
 I can be found on [Twitter](https://twitter.com/MrcsTwitt) and Discord (Marcus#1591).
