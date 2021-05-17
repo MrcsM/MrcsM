@@ -1,7 +1,7 @@
 # Hello!
 Hi! My name is Marcus Moquin, I am 18 years old and studying at [Carleton University](https://carleton.ca/). 
 
-I am majoring in Computer Science, with a concentration in Game Development.
+I am majoring in Computer Science.
 
 I am currently learning [Python](https://www.python.org/) and [Java](https://www.java.com/en/), while my experience pre-start of University was in [Skript](https://github.com/SkriptLang/Skript) for Minecraft.
 #
