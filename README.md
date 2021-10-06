@@ -7,19 +7,10 @@ I am currently learning [Python](https://www.python.org/) and [Java](https://www
 #
 
 On my page, you'll find most of my class assignments, tutorials, and some of my personal projects.
-
-My most worked on personal project to date is [MCRoyale](https://twitter.com/MCRoyaleNetwork), a Minecraft version 1.16 Battle Royale coded in Skript. As of August 2021, the project is currently under hiatus indefinitely.
-
-<p align="center">
-  <img width="100" src="https://github.com/MrcsM/MrcsM/blob/main/NotComplete.png?raw=true">
-</p>
-
-Other Personal Projects:
  - I am currently not working on any personal projects at the moment.
 
-
 Free Time Snippets:
- - [Here](https://github.com/MrcsM/Code-Snippets) is my repo for random little code snippets, feel free to check it out!
+ - [Here](https://github.com/MrcsM/Code-Snippets) is my repo for random little code snippets, feel free to check them out.
 #
 
 I can be found on [Twitter](https://twitter.com/MrcsTwitt) and Discord (Marcus#1591).
