@@ -3,7 +3,7 @@ Hi! My name is Marcus Moquin, I am 18 years old and studying at [Carleton Univer
 
 I am majoring in Computer Science.
 
-I am currently learning [Python](https://www.python.org/) and [Java](https://www.java.com/en/), while my experience pre-start of University was in [Skript](https://github.com/SkriptLang/Skript) for Minecraft.
+I am currently learning [Python](https://www.python.org/), [Java](https://www.java.com/en/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [JavaScript](https://www.javascript.com/) while my experience pre-start of University was in [Skript](https://github.com/SkriptLang/Skript) for Minecraft.
 #
 
 On my page, you'll find most of my class assignments, tutorials, and some of my personal projects.
