@@ -16,4 +16,4 @@ Free Time Snippets:
 I can be found on [Twitter](https://twitter.com/MrcsTwitt) and Discord (Marcus#1591).
 #
 
-[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcsm&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
