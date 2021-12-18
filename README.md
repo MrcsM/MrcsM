@@ -1,5 +1,5 @@
 # Hello!
-Hi! My name is Marcus Moquin, I am 18 years old and studying at [Carleton University](https://carleton.ca/). 
+Hi! My name is Marcus Moquin, I am 19 years old and studying at [Carleton University](https://carleton.ca/). 
 
 I am majoring in Computer Science.
 
