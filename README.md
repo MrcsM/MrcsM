@@ -3,7 +3,7 @@ Hi! My name is Marcus Moquin, I am 19 years old and studying at [Carleton Univer
 
 I am majoring in Computer Science.
 
-I am currently learning [Python](https://www.python.org/), [Java](https://www.java.com/en/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [JavaScript](https://www.javascript.com/) while my experience pre-start of University was in [Skript](https://github.com/SkriptLang/Skript) for Minecraft.
+I am currently (as of Winter 2022) learning [C++](https://isocpp.org/) and [Java](https://www.java.com/en/), while I have started learning [Python](https://www.python.org/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [JavaScript](https://www.javascript.com/) from my previous terms at university. Before university, my experience was in [Skript](https://github.com/SkriptLang/Skript), a basic language for Minecraft. 
 #
 
 On my page, you'll find most of my class assignments, tutorials, and some of my personal projects.
@@ -11,9 +11,6 @@ On my page, you'll find most of my class assignments, tutorials, and some of my 
 
 Free Time Snippets:
  - [Here](https://github.com/MrcsM/Code-Snippets) is my repo for random little code snippets, feel free to check them out.
-#
-
-I can be found on [Twitter](https://twitter.com/MrcsTwitt) and Discord (Marcus#1591).
 #
 
 [![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
