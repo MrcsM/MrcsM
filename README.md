@@ -3,7 +3,7 @@ Hi! My name is Marcus Moquin, I am 19 years old and studying at [Carleton Univer
 
 I am majoring in Computer Science.
 
-I am currently (as of Winter 2022) learning [C++](https://isocpp.org/) and [Java](https://www.java.com/en/), while I have started learning [Python](https://www.python.org/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [JavaScript](https://www.javascript.com/) from my previous terms at university. Before university, my experience was in [Skript](https://github.com/SkriptLang/Skript), a basic language for Minecraft. 
+I am currently (as of Winter 2022) working with [C++](https://isocpp.org/) and [Java](https://www.java.com/en/), while I have used [Python](https://www.python.org/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [JavaScript](https://www.javascript.com/) in my previous terms. Before university, my experience was in [Skript](https://github.com/SkriptLang/Skript), a basic language for Minecraft. 
 #
 
 On my page, you'll find most of my class assignments, tutorials, and some of my personal projects.
