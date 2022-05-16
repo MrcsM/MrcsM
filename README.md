@@ -12,6 +12,7 @@ On my page, you'll find most of my class assignments, tutorials, and some of my 
 Free Time Snippets:
  - [Here](https://github.com/MrcsM/Code-Snippets) is my repo for random little code snippets, feel free to check them out.
  - [Sudoku Solver](https://github.com/MrcsM/Sudoku-Solver) is a very basic Sudoku Solver coded in Java with randomized boards.
+ - [Parts Control System](https://github.com/MrcsM/Parts-Control-System) is a parts control system for an airline coded in C++.
 #
 
 [![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
