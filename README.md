@@ -14,6 +14,3 @@ Free Time Snippets:
  - [Sudoku Solver](https://github.com/MrcsM/Sudoku-Solver) is a very basic Sudoku Solver coded in Java with randomized boards.
  - [Parts Control System](https://github.com/MrcsM/Parts-Control-System) is a parts control system for an airline coded in C++.
 #
-
-[![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsm)](https://github.com/anuraghazra/github-readme-stats)
