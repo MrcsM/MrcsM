@@ -8,6 +8,7 @@ I am currently (as of Winter 2024) working with [Java](https://www.java.com/en/)
 
 On my page, you'll find most of my class assignments, tutorials, and some of my personal projects.
  - Assisting Java development on [ArcticMC](https://www.twitter.com/ArcticUHC) as of May 2023.
+ - AED Simulator Group Project: [found here](https://github.com/MrcsM/COMP3004-FinalProject)
 
 #
 [![GitHub stats](https://github-readme-stats-five-sand.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
