@@ -8,6 +8,7 @@ I am currently working with [Java](https://www.java.com/en/), [C](https://en.wik
 
 On my page, you'll find most of my class assignments, tutorials, and some of my projects.
  - Assisting Java development on [ArcticMC](https://www.twitter.com/ArcticUHC) as of May 2023.
+ - Working with the Internal QA Team at [Hoplite](https://www.hoplite.gg) as of March 2025.
  - AED Simulator Group Project: [found here](https://github.com/MrcsM/COMP3004FinalProject)
 
 #
