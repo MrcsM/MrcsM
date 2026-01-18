@@ -1,5 +1,5 @@
 # Hello!
-Hi! My name is Marcus Moquin, I am a 22-year-old developer. 
+Hi! My name is Marcus Moquin, I am a 23-year-old developer. 
 
 I obtained my Bachelor's Degree in Computer Science from Carleton University and graduated in Winter 2025.
 
@@ -8,7 +8,7 @@ I am currently working with [Java](https://www.java.com/en/) and [Python](https:
 
 On my page, you'll find most of my class assignments, tutorials, and some of my projects.
  - Assisting Java development on [ArcticMC](https://www.twitter.com/ArcticUHC) ~ May 2023 - Present
- - Working with the Internal Quality Assurance Team at [Hoplite](https://www.hoplite.gg) ~ March 2025 - Present
+ - Quality Assurance/Minecraft Plugin Development at [Hoplite](https://www.hoplite.gg) ~ March 2025 - Present
  - AED Simulator Group Project: [found here](https://github.com/MrcsM/COMP3004FinalProject) ~ Fall 2023 (Nov. - Jan. 2024)
 
 #
