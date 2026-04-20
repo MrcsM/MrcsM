@@ -11,6 +11,3 @@ On my page, you'll find most of my class assignments, tutorials, and some of my 
  - Quality Assurance/Minecraft Plugin Development at [Hoplite](https://www.hoplite.gg) ~ March 2025 - Present
  - AED Simulator Group Project: [found here](https://github.com/MrcsM/COMP3004FinalProject) ~ Fall 2023 (Nov. - Jan. 2024)
 
-#
-[![GitHub stats](https://github-readme-stats-five-sand.vercel.app/api?username=mrcsm&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
